@@ -33,15 +33,11 @@ Une attention particulière a été portée à la **modélisation conceptuelle e
 
 ## Structure du projet
 
-PROJET-BD/
-│
-├── HotelManagement.sql  # Scripts de création des tables et les requêtes SQL
-│
-├── HotelManagement.py  # Code source de l'application Streamlit
-│
-├── Systeme_Gestion_Hoteliere.pdf  # Document PDF pour les requêtes en algèbre relationnelle
-│
-└── README.md  # fichier de documentation
+📁 PROJET-BD/
+├── HotelManagement.sql               → Scripts de création des tables et les requêtes SQL
+├── HotelManagement.py                → Code source de l'application Streamlit
+├── Systeme_Gestion_Hoteliere.pdf     → Document PDF pour les requêtes en algèbre relationnelle
+└── README.md                         → Documentation du projet
 
 
 ---
@@ -56,8 +52,8 @@ cd projet-gestion-hoteliere
 
 ### 2. Installer les dépendances
 
-   * Assurez-vous d’avoir Python 3 installé, puis installez Streamlit :
-   * pip install streamlit
+   * Assurez-vous d’avoir Python 3 installé
+   * Installez Streamlit : pip install streamlit
 
 ### 3. Lancer l’application Streamlit
 
