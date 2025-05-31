@@ -51,17 +51,18 @@ PROJET-BD/
 ### 1. Cloner le projet
 
 git clone https://github.com/votre-utilisateur/projet-gestion-hoteliere.git
+
 cd projet-gestion-hoteliere
 
 ### 2. Installer les dépendances
 
-Assurez-vous d’avoir Python 3 installé, puis installez Streamlit :
-pip install streamlit
+   * Assurez-vous d’avoir Python 3 installé, puis installez Streamlit :
+   * pip install streamlit
 
 ### 3. Lancer l’application Streamlit
 
-cd interface
-streamlit run HotelManagement.py
+   * cd interface
+   * streamlit run HotelManagement.py
 
 ### 4. Base de données
 
@@ -70,7 +71,7 @@ streamlit run HotelManagement.py
 
 ## 📽️ Démonstration vidéo
  Cliquez ici pour voir la vidéo de démonstration
-👉 https://drive.google.com/drive/folders/1WZZG6t2kszJGJSk7uSboSzfWaBSlSMhh
+ https://drive.google.com/drive/folders/1WZZG6t2kszJGJSk7uSboSzfWaBSlSMhh
 
 ## Concepts abordés
    * Modélisation Entité-Association (MCD)
